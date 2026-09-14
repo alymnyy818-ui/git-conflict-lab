@@ -1,1 +1,1 @@
-strategy: drop
+﻿strategy: drop-v2
