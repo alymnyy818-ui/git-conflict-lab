@@ -1,1 +1,1 @@
-strategy: median
+strategy: median-v2
